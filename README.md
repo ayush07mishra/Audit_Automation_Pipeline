@@ -60,7 +60,7 @@ audit_project/
 # ⚙️ Installation
 
 ```bash
-git clone <your-repo>
+git clone <https://github.com/ayush07mishra/Audit_Automation_Pipeline>
 cd audit_project
 
 pip install -r requirements.txt
